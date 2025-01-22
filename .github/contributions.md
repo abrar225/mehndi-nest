@@ -100,3 +100,4 @@
 - [2025-01-11T13:00:42] style: improve code formatting and comments
 - [2025-01-11T19:52:53] docs: update activity log and documentation
 - [2025-01-14T09:51:27] docs: update activity log and documentation
+- [2025-01-22T21:32:16] refactor: optimize internal helper functions
