@@ -35,3 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # mehndi-nest
+- [2025-01-30T15:46:28] style: enhance README formatting and badge definitions
