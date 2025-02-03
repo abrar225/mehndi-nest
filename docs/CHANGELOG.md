@@ -1,0 +1,1 @@
+- [2025-02-03T14:26:10] fix: resolve minor edge cases in configuration parsing
