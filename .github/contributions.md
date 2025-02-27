@@ -110,3 +110,4 @@
 - [2025-02-12T17:04:29] feat: add utility methods for state management
 - [2025-02-17T21:22:10] fix: correct minor typo in logging output
 - [2025-02-17T22:50:04] perf: improve execution speed in hot paths
+- [2025-02-27T19:23:07] docs: clarify API usage examples in documentation
