@@ -113,3 +113,4 @@
 - [2025-02-27T19:23:07] docs: clarify API usage examples in documentation
 - [2025-03-02T21:28:47] fix: resolve edge cases in parameter validation
 - [2025-03-03T15:01:34] feat: add utility methods for state management
+- [2025-03-11T13:39:59] chore: update dependencies and environment config
