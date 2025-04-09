@@ -118,3 +118,4 @@
 - [2025-03-12T16:04:49] refactor: optimize internal helper functions
 - [2025-03-17T13:24:43] style: improve code formatting and comments
 - [2025-04-04T12:08:00] refactor: clean up unused variables and imports
+- [2025-04-09T16:07:31] test: expand test coverage for utility modules
