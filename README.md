@@ -39,3 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <!-- [2025-01-20T10:15:24] docs(readme): update project documentation and overview -->
 <!-- [2025-03-12T11:40:40] docs(readme): update project documentation and overview -->
 <!-- [2025-03-15T15:26:30] docs(readme): update project documentation and overview -->
+<!-- [2025-04-11T17:18:55] docs(readme): update project documentation and overview -->
