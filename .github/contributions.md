@@ -122,3 +122,4 @@
 - [2025-04-09T20:28:27] docs: update activity log and documentation
 - [2025-04-09T22:01:22] docs: update activity log and documentation
 - [2025-04-15T12:20:03] fix: correct minor typo in logging output
+- [2025-04-21T10:25:58] fix: resolve edge cases in parameter validation
