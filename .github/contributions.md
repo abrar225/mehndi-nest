@@ -127,3 +127,4 @@
 - [2025-04-24T15:07:13] refactor: optimize internal helper functions
 - [2025-04-26T13:12:32] perf: improve execution speed in hot paths
 - [2025-04-30T11:42:24] feat: add utility methods for state management
+- [2025-05-01T17:29:07] chore: update configuration and build scripts
