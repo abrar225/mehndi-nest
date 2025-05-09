@@ -131,3 +131,4 @@
 - [2025-05-04T12:55:59] refactor: optimize internal helper functions
 - [2025-05-08T10:08:11] chore: update configuration and build scripts
 - [2025-05-09T17:19:28] docs: clarify API usage examples in documentation
+- [2025-05-09T18:35:14] fix: resolve edge cases in parameter validation
