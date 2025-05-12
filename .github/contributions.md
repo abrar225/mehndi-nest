@@ -132,3 +132,4 @@
 - [2025-05-08T10:08:11] chore: update configuration and build scripts
 - [2025-05-09T17:19:28] docs: clarify API usage examples in documentation
 - [2025-05-09T18:35:14] fix: resolve edge cases in parameter validation
+- [2025-05-12T15:42:52] feat: add utility methods for state management
