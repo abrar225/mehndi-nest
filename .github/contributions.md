@@ -136,3 +136,4 @@
 - [2025-05-13T10:41:47] perf: improve execution speed in hot paths
 - [2025-05-16T22:07:33] test: expand test coverage for utility modules
 - [2025-05-18T17:58:07] chore: update configuration and build scripts
+- [2025-05-21T12:20:39] chore: update configuration and build scripts
