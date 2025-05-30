@@ -140,3 +140,4 @@
 - [2025-05-21T17:02:43] chore: update configuration and build scripts
 - [2025-05-24T21:06:12] refactor: optimize internal helper functions
 - [2025-05-24T22:27:46] refactor: clean up unused variables and imports
+- [2025-05-30T12:00:34] chore: update configuration and build scripts
