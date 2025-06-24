@@ -145,3 +145,4 @@
 - [2025-06-04T20:16:29] refactor: optimize internal helper functions
 - [2025-06-05T13:21:05] perf: improve execution speed in hot paths
 - [2025-06-09T16:22:06] docs: clarify API usage examples in documentation
+- [2025-06-24T17:39:32] style: improve code formatting and comments
