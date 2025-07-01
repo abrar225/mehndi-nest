@@ -146,3 +146,4 @@
 - [2025-06-05T13:21:05] perf: improve execution speed in hot paths
 - [2025-06-09T16:22:06] docs: clarify API usage examples in documentation
 - [2025-06-24T17:39:32] style: improve code formatting and comments
+- [2025-07-01T13:16:51] feat: add utility methods for state management
