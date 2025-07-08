@@ -149,3 +149,4 @@
 - [2025-07-01T13:16:51] feat: add utility methods for state management
 - [2025-07-05T16:03:22] docs: clarify API usage examples in documentation
 - [2025-07-07T15:43:00] perf: improve execution speed in hot paths
+- [2025-07-08T13:04:38] fix: resolve edge cases in parameter validation
