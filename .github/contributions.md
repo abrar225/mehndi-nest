@@ -150,3 +150,4 @@
 - [2025-07-05T16:03:22] docs: clarify API usage examples in documentation
 - [2025-07-07T15:43:00] perf: improve execution speed in hot paths
 - [2025-07-08T13:04:38] fix: resolve edge cases in parameter validation
+- [2025-07-16T22:47:36] fix: correct minor typo in logging output
