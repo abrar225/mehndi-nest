@@ -153,3 +153,4 @@
 - [2025-07-16T22:47:36] fix: correct minor typo in logging output
 - [2025-07-18T20:20:35] refactor: clean up unused variables and imports
 - [2025-07-19T19:47:26] docs: clarify API usage examples in documentation
+- [2025-07-25T18:49:48] chore: update configuration and build scripts
