@@ -155,3 +155,4 @@
 - [2025-07-19T19:47:26] docs: clarify API usage examples in documentation
 - [2025-07-25T18:49:48] chore: update configuration and build scripts
 - [2025-07-28T15:17:10] style: improve code formatting and comments
+- [2025-08-07T14:05:59] refactor: clean up unused variables and imports
