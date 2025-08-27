@@ -1,0 +1,1 @@
+- [2025-08-27T17:15:12] chore: update dependencies and environment config
