@@ -1,1 +1,2 @@
 - [2025-08-27T17:15:12] chore: update dependencies and environment config
+- [2025-09-05T13:31:52] chore: update configuration and build scripts
