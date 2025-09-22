@@ -2,3 +2,4 @@
 - [2025-09-05T13:31:52] chore: update configuration and build scripts
 - [2025-09-18T16:04:41] chore: update dependencies and environment config
 - [2025-09-21T20:35:43] docs: clarify API usage examples in documentation
+- [2025-09-22T20:50:09] docs: update activity log and documentation
