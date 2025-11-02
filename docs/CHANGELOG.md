@@ -4,3 +4,4 @@
 <!-- [2025-05-19T17:03:13] docs(changelog): update version release notes -->
 <!-- [2025-06-14T19:59:37] docs(changelog): update version release notes -->
 <!-- [2025-09-12T14:05:43] docs(changelog): update version release notes -->
+<!-- [2025-11-02T10:12:43] docs(changelog): update version release notes -->
