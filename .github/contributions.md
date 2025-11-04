@@ -8,3 +8,4 @@
 - [2025-10-17T18:34:22] refactor: optimize internal helper functions
 - [2025-10-20T17:50:34] refactor: optimize internal helper functions
 - [2025-10-23T11:37:00] fix: resolve edge cases in parameter validation
+- [2025-11-04T14:34:30] style: improve code formatting and comments
