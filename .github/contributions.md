@@ -12,3 +12,4 @@
 - [2025-11-05T12:51:04] refactor: clean up unused variables and imports
 - [2025-11-05T16:55:45] docs: clarify API usage examples in documentation
 - [2025-11-09T15:49:13] docs: clarify API usage examples in documentation
+- [2025-11-20T19:24:53] perf: improve execution speed in hot paths
