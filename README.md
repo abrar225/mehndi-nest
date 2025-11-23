@@ -45,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [2025-09-05T22:58:09] style: enhance README formatting and badge definitions
 - [2025-09-09T22:23:51] docs(readme): improve documentation notes and usage guidelines
 - [2025-10-17T17:41:06] style: enhance README formatting and badge definitions
+- [2025-11-23T20:43:10] docs(readme): improve documentation notes and usage guidelines
