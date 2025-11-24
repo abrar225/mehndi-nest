@@ -14,3 +14,4 @@
 - [2025-11-09T15:49:13] docs: clarify API usage examples in documentation
 - [2025-11-20T19:24:53] perf: improve execution speed in hot paths
 - [2025-11-24T09:16:12] perf: improve execution speed in hot paths
+- [2025-11-24T11:50:35] docs: clarify API usage examples in documentation
