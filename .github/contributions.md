@@ -16,3 +16,4 @@
 - [2025-11-24T09:16:12] perf: improve execution speed in hot paths
 - [2025-11-24T11:50:35] docs: clarify API usage examples in documentation
 - [2025-11-26T22:07:17] docs: clarify API usage examples in documentation
+- [2025-12-01T15:11:31] refactor: optimize internal helper functions
