@@ -18,3 +18,4 @@
 - [2025-11-26T22:07:17] docs: clarify API usage examples in documentation
 - [2025-12-01T15:11:31] refactor: optimize internal helper functions
 - [2025-12-08T20:59:57] refactor: clean up unused variables and imports
+- [2025-12-09T18:48:38] refactor: optimize internal helper functions
