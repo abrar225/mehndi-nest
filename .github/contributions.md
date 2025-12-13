@@ -21,3 +21,4 @@
 - [2025-12-09T18:48:38] refactor: optimize internal helper functions
 - [2025-12-09T22:14:38] docs: clarify API usage examples in documentation
 - [2025-12-13T13:24:56] docs: update activity log and documentation
+- [2025-12-13T15:58:08] feat: add utility methods for state management
