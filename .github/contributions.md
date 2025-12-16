@@ -24,3 +24,4 @@
 - [2025-12-13T15:58:08] feat: add utility methods for state management
 - [2025-12-16T11:21:42] refactor: optimize internal helper functions
 - [2025-12-16T15:24:17] refactor: optimize internal helper functions
+- [2025-12-16T20:37:17] chore: update configuration and build scripts
