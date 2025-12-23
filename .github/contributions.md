@@ -26,3 +26,4 @@
 - [2025-12-16T15:24:17] refactor: optimize internal helper functions
 - [2025-12-16T20:37:17] chore: update configuration and build scripts
 - [2025-12-19T20:29:44] docs: clarify API usage examples in documentation
+- [2025-12-23T19:28:57] chore: update dependencies and environment config
