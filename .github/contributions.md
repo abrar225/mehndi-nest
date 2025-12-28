@@ -28,3 +28,4 @@
 - [2025-12-19T20:29:44] docs: clarify API usage examples in documentation
 - [2025-12-23T19:28:57] chore: update dependencies and environment config
 - [2025-12-28T11:07:09] refactor: optimize internal helper functions
+- [2025-12-28T11:24:01] refactor: clean up unused variables and imports
