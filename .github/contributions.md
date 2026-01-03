@@ -165,3 +165,4 @@
 - [2025-08-09T12:31:59] refactor: clean up internal module structure and comments
 - [2025-09-01T14:24:57] refactor: clean up internal module structure and comments
 - [2025-09-01T16:37:58] refactor: clean up internal module structure and comments
+- [2026-01-03T10:09:07] refactor: clean up internal module structure and comments
