@@ -12,3 +12,4 @@
 <!-- [2025-05-09T17:54:54] docs: update API integration guidelines -->
 <!-- [2025-06-18T18:50:05] docs: update API integration guidelines -->
 <!-- [2025-09-24T22:33:16] docs: update API integration guidelines -->
+<!-- [2026-01-13T10:38:57] docs: update API integration guidelines -->
