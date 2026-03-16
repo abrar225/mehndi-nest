@@ -47,3 +47,4 @@
 - [2026-03-05T10:15:26] feat: add utility methods for state management
 - [2026-03-06T10:44:38] perf: improve execution speed in hot paths
 - [2026-03-16T09:42:37] perf: improve execution speed in hot paths
+- [2026-03-16T18:00:03] chore: update configuration and build scripts
