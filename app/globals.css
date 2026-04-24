@@ -2,32 +2,155 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@layer base {
+  /* ── Global Resets ── */
+  *,
+  *::before,
+  *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+  html {
+    scroll-behavior: auto; /* Lenis handles smooth scrolling */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-charcoal text-textPrimary font-body text-body-base;
+    overflow-x: hidden;
+  }
+
+  /* ── Selection ── */
+  ::selection {
+    background-color: rgba(200, 169, 106, 0.3);
+    color: #f5f5f5;
+  }
+
+  /* ── Scrollbar Styling ── */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0f0f0f;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #2a2a2a;
+    border-radius: 999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c8a96a;
+  }
+
+  /* ── Focus States ── */
+  :focus-visible {
+    outline: 2px solid #c8a96a;
+    outline-offset: 2px;
+  }
+
+  /* ── Typography Defaults ── */
+  h1, h2, h3, h4 {
+    @apply font-heading;
+  }
+
+  h1 {
+    @apply text-h1;
+  }
+
+  h2 {
+    @apply text-h2;
+  }
+
+  h3 {
+    @apply text-h3;
+  }
+
+  h4 {
+    @apply text-h4;
+  }
+
+  p {
+    @apply text-body-base text-textSecondary;
+  }
+
+  a {
+    @apply text-gold transition-colors duration-micro hover:text-sand;
+  }
+
+  /* ── Image Defaults ── */
+  img {
+    @apply rounded-card;
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+@layer components {
+  /* ── Section Spacing ── */
+  .section-padding {
+    @apply py-5xl px-lg;
+  }
+
+  @media (max-width: 1024px) {
+    .section-padding {
+      @apply py-4xl px-lg;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .section-padding {
+      padding-top: 56px;
+      padding-bottom: 56px;
+      @apply px-md;
+    }
+  }
+
+  /* ── Container ── */
+  .container-base {
+    @apply mx-auto w-full max-w-container px-lg;
+  }
+
+  .container-lg {
+    @apply mx-auto w-full max-w-container-lg px-lg;
+  }
+
+  @media (max-width: 1024px) {
+    .container-base,
+    .container-lg {
+      width: 90%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .container-base,
+    .container-lg {
+      width: 94%;
+    }
+  }
+
+  /* ── Reveal Animation Utility ── */
+  .reveal-hidden {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  .reveal-visible {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 600ms cubic-bezier(0.22, 1, 0.36, 1),
+      transform 600ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  /* ── Backdrop Blur for Modals ── */
+  .backdrop-modal {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
   }
 }
