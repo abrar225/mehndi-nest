@@ -58,3 +58,4 @@
 - [2026-04-13T09:51:00] test: expand test coverage for utility modules
 - [2026-04-17T12:51:36] style: improve code formatting and comments
 - [2026-04-22T15:05:37] refactor: optimize internal helper functions
+- [2026-04-26T10:17:27] fix: resolve edge cases in parameter validation
