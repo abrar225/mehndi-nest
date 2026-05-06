@@ -52,3 +52,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <!-- [2026-03-10T21:35:05] docs(readme): update project documentation and overview -->
 <!-- [2026-03-29T15:14:43] docs(readme): update project documentation and overview -->
 <!-- [2026-05-03T15:19:03] style: improve formatting and badge alignment -->
+<!-- [2026-05-06T10:31:55] style: improve formatting and badge alignment -->
