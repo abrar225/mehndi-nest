@@ -70,3 +70,4 @@
 - [2026-05-18T22:39:48] refactor: optimize internal helper functions
 - [2026-05-19T15:27:01] perf: improve execution speed in hot paths
 - [2026-05-24T16:42:16] refactor: clean up unused variables and imports
+- [2026-05-24T20:07:42] chore: update dependencies and environment config
