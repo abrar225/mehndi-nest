@@ -76,3 +76,4 @@
 - [2026-06-05T12:39:09] refactor: optimize internal helper functions
 - [2026-06-10T18:53:08] style: improve code formatting and comments
 - [2026-06-16T18:03:37] perf: improve execution speed in hot paths
+- [2026-07-02T17:48:22] docs: clarify API usage examples in documentation
