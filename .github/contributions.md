@@ -78,3 +78,4 @@
 - [2026-06-16T18:03:37] perf: improve execution speed in hot paths
 - [2026-07-02T17:48:22] docs: clarify API usage examples in documentation
 - [2026-07-02T17:29:03] refactor: optimize internal helper functions
+- [2026-07-09T19:10:36] feat: add utility methods for state management
